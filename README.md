@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Akash, a driven web developer with a knack for creating captivating online experiences. My toolbox is filled with HTML, CSS, JavaScript, React, Java, and C++, enabling me to bring ideas to life and build interactive and dynamic web applications. Let's turn ideas into reality together! ✨
+👋 Hello there! I'm Akash,a passionate developer with expertise in MongoDB, Express, React, Node.js, JavaScript, and Java. I have a strong command of Git/Github and love working on projects that challenge me to think outside the box. I'm always eager to learn new technologies and contribute to open-source projects. Let's collaborate and turn ideas into reality together! ✨
 
 
 ## 🌐 Socials:
